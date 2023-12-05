@@ -18,6 +18,7 @@ Little did he knew that Linux will go worldwide and be the undisputed king of lo
 
 THINGS to consider:-
 Things to consider before using linux.
+   
     • It is case-sensitive(so be careful with spellings).
     • It can pretty much run on any possible hardware containing CPU,RAM,Storage and power.
     • It is not that hard to use,Once you get used to it.Its just becomes second nature and you won’t even realise it 
@@ -40,10 +41,9 @@ Heavily inspired by the early XP days.....
 
 Ways of installation:-
 There are lots of ways to install linux but i will recommend a safe one.
-    1. Prepare a usb stick to use mint ISO file.I would recommend use ventoy.It is a handy tool which you can use to make a bootable Pendrive without formatting it everytime.
-    ventoy site:- https://www.ventoy.net/en/index.html
+1. Prepare a usb stick to use mint ISO file.I would recommend use ventoy.It is a handy tool which you can use to make a bootable Pendrive without formatting it everytime.
+ventoy site:- https://www.ventoy.net/en/index.html
 
-This is their site read if you want to......
 2. Next download the Mint iso from their official site,which looks like this......
 linux mint official site:- https://linuxmint.com/
 ![mint](https://github.com/sahilsongire/Linux-research/assets/142686722/dd9e4ed2-8c75-4cdb-ad66-dc54f2d5e1e2)
