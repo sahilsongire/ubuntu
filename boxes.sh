@@ -1,2 +1,2 @@
 !#/bin/bash
-flatpak install flathub org.gnome.Boxes #boxes for VM's ^w^ have fun
+flatpak install flathub org.gnome.Boxes -y #boxes for VM's ^w^ have fun
