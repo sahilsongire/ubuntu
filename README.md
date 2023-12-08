@@ -66,4 +66,5 @@ Execute the script using the following command:
     ./script_name.sh
 
 Note: Modify the script_name.sh with the actual name of your script. These steps are general and may vary depending on the specific requirements of the script.
+
 INSTALL YOUR FAVOURITE APPS BY RUNNING THOSE SCRIPTS AND HAVE FUN ^w^
