@@ -1,4 +1,7 @@
+![mint_logo-removebg-preview](https://github.com/sahilsongire/ubuntu/assets/142686722/e0429acd-84db-4b0a-b816-e78672d9724e)
+
 Information:-
+
 Linux, or GNU/Linux, is a Free and Open-source Software (FOSS) that can run on any hardware with a CPU, RAM, storage device, and power supply. It was developed by the legendary Linus Torvalds in 1993.
 ![Cohen-Linus-Torvalds](https://github.com/sahilsongire/Linux-research/assets/142686722/0a4eeef7-b049-498f-874f-a88b4072f29c)
 
@@ -38,15 +41,21 @@ Instructions for Installing Script
    Clone the repository using the following command:
 
        git clone https://www.github.com/sahilsongire/ubuntu
-
 2.Open Terminal:
 Open the terminal by pressing Ctrl+Alt+T.
+
 
 3. Navigate to the Directory:
 Use the cd command to navigate to the directory where the script was downloaded
 
        cd /path/where/it/downloaded
-4.Run the Script:
+
+4.Make the Script Executable:
+Make the script executable with the following command:
+
+    chmod +x script_name.sh
+
+5.Run the Script:
 Execute the script using the following command:
 
     ./script_name.sh
