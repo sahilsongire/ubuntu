@@ -37,6 +37,11 @@ There are lots of ways to install linux but i will recommend a safe one.
 
 Instructions for Installing Script
 
+MAKE SURE GIT IS INSTALLED 
+IF NOT....
+
+        sudo apt install git -y
+
 1. **Download the Script:**
    Clone the repository using the following command:
 
