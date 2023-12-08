@@ -1,7 +1,3 @@
-THIS IS THE BASICS OF THE LINUX RESEARCH YOU ARE ABOUT TO USE
--Hope you like it.....!!!
-
-
 Information:-
 Linux, or GNU/Linux, is a Free and Open-source Software (FOSS) that can run on any hardware with a CPU, RAM, storage device, and power supply. It was developed by the legendary Linus Torvalds in 1993.
 ![Cohen-Linus-Torvalds](https://github.com/sahilsongire/Linux-research/assets/142686722/0a4eeef7-b049-498f-874f-a88b4072f29c)
