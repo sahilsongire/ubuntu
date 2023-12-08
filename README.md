@@ -12,12 +12,12 @@ Little did he knew that Linux will go worldwide and be the undisputed king of lo
 THINGS to consider:-
 Things to consider before using linux.
 
-    It is case-sensitive, so be careful with spellings.
-    Linux can run on any hardware with CPU, RAM, storage, and power.
-    Once you get used to it, Linux is not that hard to use and becomes second nature.
-    Be careful with the terminal; it's easy to mess up if you are new, so read guides before using it.
-    Keep track of your Linux usage to learn from mistakes.
-    Stay updated with the community; the Linux community is vast and helpful.
+    1)It is case-sensitive, so be careful with spellings.
+    2)Linux can run on any hardware with CPU, RAM, storage, and power.
+    3)Once you get used to it, Linux is not that hard to use and becomes second nature.
+    4)Be careful with the terminal; it's easy to mess up if you are new, so read guides before using it.
+    5)Keep track of your Linux usage to learn from mistakes.
+    6)Stay updated with the community; the Linux community is vast and helpful.
     
 Linux Distros for Beginners
 
