@@ -31,3 +31,24 @@ There are lots of ways to install linux but i will recommend a safe one.
 
 2. Download the Mint ISO from their official site: https://linuxmint.com/
 ![mint](https://github.com/sahilsongire/Linux-research/assets/142686722/dd9e4ed2-8c75-4cdb-ad66-dc54f2d5e1e2)
+
+Instructions for Installing Script
+
+1. **Download the Script:**
+   Clone the repository using the following command:
+
+       git clone https://www.github.com/sahilsongire/ubuntu
+
+2.Open Terminal:
+Open the terminal by pressing Ctrl+Alt+T.
+
+3. Navigate to the Directory:
+Use the cd command to navigate to the directory where the script was downloaded
+
+       cd /path/where/it/downloaded
+4.Run the Script:
+Execute the script using the following command:
+
+    ./script_name.sh
+
+Note: Modify the script_name.sh with the actual name of your script. These steps are general and may vary depending on the specific requirements of the script.
